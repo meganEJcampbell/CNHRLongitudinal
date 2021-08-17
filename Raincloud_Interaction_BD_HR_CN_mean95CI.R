@@ -2,10 +2,13 @@
 ## COMPARE OUR HR GROUP WITH PREVIOUS SAMPLE OF PEOPLE WITH BD DIAGNOSIS
 ### adding a single timepoint of BD participants to compare on the existing TimexGroup interaction plot smaple of n=52 BD patients
 
-####### Credits
-# this version was written by Megan EJ Campbell - 2021
-# it was based on Alistair Perry's 2020 edited version of XX
-###### Refs? 
+# it was based on Alistair Perry's 2020 edited version of published data visulisation tools (Allen etal 2019; Langen 2020)
+###### Refs
+# Allen M, Poggiali D, Whitaker K, Marshall T, Kievit R. Raincloud plots: a multi-
+#   platform tool for robust data visualization. J Wellcome Open Research. 2019;4.
+# Langen Jv. Open-visualisations in R and Python. 1.0.4 ed. Zenodo, 2020.
+
+
 
 # #Load packages
 library("plyr")
